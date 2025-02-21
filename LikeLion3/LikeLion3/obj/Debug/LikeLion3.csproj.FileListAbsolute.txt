@@ -1,0 +1,7 @@
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\bin\Debug\LikeLion3.exe.config
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\bin\Debug\LikeLion3.exe
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\bin\Debug\LikeLion3.pdb
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\obj\Debug\LikeLion3.csproj.AssemblyReference.cache
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\obj\Debug\LikeLion3.csproj.CoreCompileInputs.cache
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\obj\Debug\LikeLion3.exe
+C:\Users\john2\OneDrive\문서\GitHub\likelion\LikeLion3\LikeLion3\obj\Debug\LikeLion3.pdb
