@@ -31,7 +31,7 @@ namespace TodayTask1
             Console.WriteLine("■■■■□");
             Thread.Sleep(1000); //1000 이 1초다
             Console.Clear();
-            Console.WriteLine("■■■■■");
+            Console.WriteLine("■■■■■ㅁ");
             Thread.Sleep(1000); //1000 이 1초다
             Console.Clear();
             Thread.Sleep(1000);
