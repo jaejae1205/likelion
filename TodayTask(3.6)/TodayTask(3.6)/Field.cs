@@ -50,7 +50,7 @@ namespace TodayTask_3._6_
             tMonster.Hp = hp;
             tMonster.Attack = att;
 
-            pmonster.SetMonster(tMonster);
+            pmonster.SetMonster(tMonster);//
 
         }
 
