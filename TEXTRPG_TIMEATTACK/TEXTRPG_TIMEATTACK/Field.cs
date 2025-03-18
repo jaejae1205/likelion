@@ -40,13 +40,8 @@ namespace TEXTRPG_TIMEATTACK
                         break;
                     }
                 }
-
-
-
             }
         }
-
-
 
         public void Map()
         {
